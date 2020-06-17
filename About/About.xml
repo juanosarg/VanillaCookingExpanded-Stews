@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Vanilla Cooking Expanded - Stews</name>
+	<author>Oskar Potocki, Sarg Bjornson, Chowder</author>
+	<supportedVersions>
+     
+      <li>1.1</li>
+   </supportedVersions>
+  
+	 <modDependencies>
+		<li>
+			<packageId>VanillaExpanded.VCookE</packageId>
+			<displayName>Vanilla Cooking Expanded</displayName>
+			<steamWorkshopUrl></steamWorkshopUrl>
+			<downloadUrl>https://github.com/juanosarg/VanillaCookingExpanded/releases</downloadUrl>
+		</li>
+		
+	</modDependencies>
+		<packageId>VanillaExpanded.VCookEStews</packageId>
+	
+	<description>
+		Vanilla Cooking Expanded - Stews
+		Beta 12/06/2020
+		
+		Redistributing and publishing this mod is a violation of intellectual property laws.
+
+</description>
+</ModMetaData>
