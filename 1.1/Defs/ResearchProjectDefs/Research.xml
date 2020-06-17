@@ -7,7 +7,7 @@
 		<defName>VCE_StewCooking</defName>
 		<label>stew cooking</label>
 		<tab>VCE_Cooking</tab>
-		<techLevel>Industrial</techLevel>
+		<techLevel>Medieval</techLevel>
 		<description>Soup is a primarily liquid food, generally served warm or hot, that is made by combining ingredients of meat or vegetables with stock, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted. This research also gives access to the electric pot necessary to cook soups.</description>
 		<baseCost>300</baseCost>
 		
