@@ -66,6 +66,7 @@
 				<noPowerDestroysProgress>true</noPowerDestroysProgress>
 				<rareTicksToDestroy>10</rareTicksToDestroy>
 				<noPowerDestroysMessage>VCE_StewFailurePower</noPowerDestroysMessage>
+				<noPowerDestroysInitialWarning>VCE_StewFailurePowerWarning</noPowerDestroysInitialWarning>
 
 				<destroyIngredientsAtStartOfProcess>true</destroyIngredientsAtStartOfProcess>
 

@@ -13,6 +13,7 @@
 	<VCE_CancelBringingStewDesc>Cancel bringing stew to the stew pot.</VCE_CancelBringingStewDesc>
 	
 	<VCE_StewFailurePower>The stew has spoiled due to a lack of fuel in the stew pot</VCE_StewFailurePower>
+	<VCE_StewFailurePowerWarning>The stew is spoiling fast due to a lack of fuel in the stew pot</VCE_StewFailurePowerWarning>
 
 	
 
