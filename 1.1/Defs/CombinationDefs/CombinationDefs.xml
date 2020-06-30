@@ -16,6 +16,7 @@
 		<yield>5</yield>
 		<useQualityIncreasing>false</useQualityIncreasing>
 		<singleTimeIfNotQualityIncreasing>2</singleTimeIfNotQualityIncreasing>
+		<finishedProductMessage>VCE_FinishedSimpleStew</finishedProductMessage>
 	</ItemProcessor.CombinationDef>
 	
 	<ItemProcessor.CombinationDef>
@@ -31,6 +32,8 @@
 		<yield>5</yield>
 		<useQualityIncreasing>false</useQualityIncreasing>
 		<singleTimeIfNotQualityIncreasing>2</singleTimeIfNotQualityIncreasing>
+				<finishedProductMessage>VCE_FinishedFineStew</finishedProductMessage>
+
 	</ItemProcessor.CombinationDef>
 	
 	<ItemProcessor.CombinationDef>
@@ -46,6 +49,8 @@
 		<yield>5</yield>
 		<useQualityIncreasing>false</useQualityIncreasing>
 		<singleTimeIfNotQualityIncreasing>2</singleTimeIfNotQualityIncreasing>
+						<finishedProductMessage>VCE_FinishedLavishStew</finishedProductMessage>
+
 	</ItemProcessor.CombinationDef>
 	
 

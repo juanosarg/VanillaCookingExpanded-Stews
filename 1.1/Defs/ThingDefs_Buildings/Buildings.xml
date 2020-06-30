@@ -52,6 +52,8 @@
 				<acceptsNoneAsInput>false</acceptsNoneAsInput>
 				<InsertFirstItemDesc>VCE_InsertStewDesc</InsertFirstItemDesc>
 				<ignoresIngredientLists>true</ignoresIngredientLists>
+				<isSemiAutomaticMachine>true</isSemiAutomaticMachine>
+				<resetSemiautomaticIcon>UI/VCE_ResetStew</resetSemiautomaticIcon>
 				
 				<chooseIngredientsIcon>UI/VCE_EmptyStewPotIcon</chooseIngredientsIcon>
 
@@ -73,7 +75,7 @@
 			</li>
 			<li Class="CompProperties_Refuelable">
 				<fuelConsumptionRate>10.0</fuelConsumptionRate>
-				<fuelCapacity>20.0</fuelCapacity>
+				<fuelCapacity>25.0</fuelCapacity>
 				<fuelConsumptionPerTickInRain>0.0006</fuelConsumptionPerTickInRain>
 				<fuelFilter>
 					<thingDefs>
