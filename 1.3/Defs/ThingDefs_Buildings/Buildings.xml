@@ -49,6 +49,7 @@
 			
 			<li Class="ItemProcessor.CompProperties_ItemProcessor">
 				<buildingOnGraphic>Things/Buildings/VCE_StewPotFull</buildingOnGraphic>
+				<buildingFinishedGraphic>Things/Buildings/VCE_StewPotFull</buildingFinishedGraphic>
 				<numberOfInputs>1</numberOfInputs>
 				<acceptsNoneAsInput>false</acceptsNoneAsInput>
 				<InsertFirstItemDesc>VCE_InsertStewDesc</InsertFirstItemDesc>
